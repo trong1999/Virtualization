@@ -4,9 +4,10 @@
   - Nó có tên gọi khác là Virtual Machine Monitor (VMM)
 2, Phân loại : có hai loại Native và Hosted
 <img src="https://thegioimaychu.vn/blog/wp-content/uploads/2018/10/400px-Hyperviseur.png">
-a, Native:
+**a, Native:**
   + Chạy trức tiếp trên hardware của Host để quản lý Guest OS
   + Sử dụng cho các doanh nghiệp lớn, data center
-b, Hosted:
+
+**b, Hosted:**
   + Chạy trên một OS thông thường như software layer hoặc application
   + Sử dụng cho người dùng cá nhân, doanh nghiệp bé.
