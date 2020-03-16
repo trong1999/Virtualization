@@ -12,3 +12,7 @@
 **b, Hosted:**
   + Chạy trên một OS thông thường như software layer hoặc application
   + Sử dụng cho người dùng cá nhân, doanh nghiệp bé.
+3, CPU virtualization
+  + Nó hoạt động như thể có nhiều CPU riêng biệt
+  + Dùng để chạy nhiều OS trên một máy.
+  + CPU này có thể được cấu hình tĩnh hoặc động, khi mà nó không dùng đến thì nó server khác sẽ được sử dụng, và ngược lại nếu nó cần nhiều tài nguyên cho tiến trình thì nó sẽ được lấy thêm.
