@@ -12,6 +12,7 @@
 **b, Hosted:**
   + Chạy trên một OS thông thường như software layer hoặc application
   + Sử dụng cho người dùng cá nhân, doanh nghiệp bé.
+
 3, CPU virtualization
   + Nó hoạt động như thể có nhiều CPU riêng biệt
   + Dùng để chạy nhiều OS trên một máy.
